@@ -2,7 +2,7 @@ Bonjour Monsieur COUALAN,
 
 Veuillez trouver ci-joint le rendu PHP demandé, réalisé par :
 - SLIMAN Alain
-- PARONNE Raphael
+- PARONE Raphael
 
 Nous avons reproduit un clone de Twitter qui permet de 
 tweeter modifier et supprimer des tweets soit par leur créa soit par l'admini directement.
